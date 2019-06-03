@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>skillMatch.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>26514BE459B548E9AEE5DF47DC120776405531CA</string>
+				<key>dateExpires</key>
+				<string>11.04.2019</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>Z8TT3XQ434.com.VladislavSavchenko.skillMatch</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>Z8TT3XQ434</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>skillMatch.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>fb551ac9-d521-4eb4-b6f2-5b3619981486</string>
+				<key>name</key>
+				<string>skillMatchAdHoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>Z8TT3XQ434</string>
+				<key>name</key>
+				<string>Vladislav Savchenko</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

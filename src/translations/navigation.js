@@ -1,0 +1,35 @@
+const navTranslations = {
+  en: {
+    'Create Post': 'Create Post',
+    'Create job or task': 'Create job or task',
+    Create: 'Create',
+    Invitations: 'Invitations',
+    Chats: 'Chats',
+    Profile: 'Profile',
+    Settings: 'Settings',
+    'Change password': 'Change password',
+    'Delete account': 'Delete account',
+    'Create job': 'Create job',
+    'Create task': 'Create task',
+    'Terms of Use & Privacy': 'Terms of Use & Privacy',
+  },
+  de: {
+    'Create Post': 'Posten',
+    'Create job or task': 'Stelle oder Aufgabe ausschreiben',
+    Create: 'Ausschreiben',
+    Invitations: 'Chancen',
+    'Edit job': 'Stelle bearbeiten',
+    Chats: 'Chats',
+    Profile: 'Profil',
+    Settings: 'Einstellungen',
+    'Change password': 'Passwort ändern',
+    'Delete account': 'Konto löschen',
+    'Create job': 'Stelle ausschreiben',
+    'Create task': 'Aufgabe ausschreiben',
+    'Terms of Use & Privacy': 'Nutzungsbedingungen und Datenschutz',
+    'HR Substitute': 'HR Ersatz',
+    Archive: 'Archiv',
+  },
+};
+
+export const translateTitle = (lang, string) => (navTranslations[lang] && navTranslations[lang][string]) || string;

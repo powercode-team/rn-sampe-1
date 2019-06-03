@@ -1,0 +1,23 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "linebreak-style": 0,
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "max-len": 0,
+    "react/forbid-prop-types": 0,
+    "react/require-default-props": 0,
+    "import/no-named-as-default": 0,
+    "object-curly-newline": 0,
+    "import/prefer-default-export": 0,
+    "arrow-parens": ["error", "always"],
+    "func-names": ["error", "never"],
+    "no-param-reassign": ["error", { "props": false }],
+    "consistent-return": 0,
+    "no-underscore-dangle": 0,
+    "react/no-did-mount-set-state": 0
+  },
+  "parser": "babel-eslint"
+}

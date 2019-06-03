@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "711415595641",
+    "firebase_url": "https://people-link.firebaseio.com",
+    "project_id": "people-link",
+    "storage_bucket": "people-link.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711415595641:android:ac43ef8a7c4fee32",
+        "android_client_info": {
+          "package_name": "com.peoplelink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711415595641-jlcnn6rnerf5lbspl9bkm38k00n8dhi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4GzBo8zg8qHwUnuAazejqagw32UGegpg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711415595641:android:217f82a6fe4660bc",
+        "android_client_info": {
+          "package_name": "com.skillMatchCustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711415595641-jlcnn6rnerf5lbspl9bkm38k00n8dhi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4GzBo8zg8qHwUnuAazejqagw32UGegpg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
